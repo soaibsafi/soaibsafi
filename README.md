@@ -4,6 +4,11 @@
 - 👯 I’m looking to collaborate on open source project. 
 - 💬 Ask me about anything. Either You'll learn something or I'll learn something.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6q8hmxup49h0pfylz2txhth78)
+
+
 ### My Git Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaibsafi&layout=compact&hide_border=false&theme=tokyonight&ine_height50)](https://github.com/soaibsafi?tab=repositories)![](https://github-readme-stats.vercel.app/api?username=soaibsafi&show_icons=true&theme=tokyonight)
 
