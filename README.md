@@ -1,8 +1,7 @@
-### Hi there, I'm Soaibuzzaman 👋
+## Hi there 👋, I'm Soaibuzzaman
 - 🔭 I’m currently working on Augmented Reality, Industrial Automation as part of my job as HiWi. 
-- 🌱 I’m currently learning Neurocomputing and IoT.
+- 🌱 I’m currently learning Computer Vision & Neurocomputing.
 - 👯 I’m looking to collaborate on open source project. 
-- 💬 Ask me about anything. Either You'll learn something or I'll learn something.
 
 
 ### Connect with me:
@@ -20,12 +19,21 @@
 
 <br />
 
+---------
+
+### 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soaibsafi&theme=onedark)](https://github.com/soaibsafi/github-profile-trophy)
+
+<!--
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6q8hmxup49h0pfylz2txhth78)
+-->
 
+### 📈 My Git Stats:
 
-### My Git Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaibsafi&layout=compact&hide_border=false&theme=tokyonight&ine_height50)](https://github.com/soaibsafi?tab=repositories)![](https://github-readme-stats.vercel.app/api?username=soaibsafi&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaibsafi&layout=compact&exclude_repo=ToDoList,Soaib-sBlog,android_b-dice_roll&hide_border=false&theme=tokyonight&ine_height50)](https://github.com/soaibsafi?tab=repositories)![](https://github-readme-stats.vercel.app/api?username=soaibsafi&show_icons=true&theme=tokyonight)
+
 
 <!--
 **soaibsafi/soaibsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
