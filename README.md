@@ -1,11 +1,11 @@
-## Hi there 👋, I'm Soaibuzzaman
+## 👋 Hi there, I'm Soaibuzzaman
 - 🔭 I’m currently working on Augmented Reality, Industrial Automation as part of my job as HiWi. 
 - 🌱 I’m currently learning Computer Vision & Neurocomputing.
 - 👯 I’m looking to collaborate on open source project. 
 
 ---------------
 
-### Connect with me:
+### 🔗 Connect with me:
 
 [<img align="left" alt="soaibsafi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://soaibsafi.com)
 [<img align="left" alt="Soaibuzzaman | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=TXNeiWcAAAAJ&hl=en)
