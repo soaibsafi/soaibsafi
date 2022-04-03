@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Soaibuzzaman
-- 🔭 I’m currently working on Augmented Reality, Industrial Automation as part of my job as HiWi. 
-- 🌱 I’m currently learning Computer Vision & Neurocomputing.
+- 🔭 I’m currently working on my Master's thesis.
+- 🌱 I’m currently learning Computer Vision & 3D simulation.
 - 👯 I’m looking to collaborate on open source project. 
 
 ---------------
