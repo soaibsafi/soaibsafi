@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm Soaibuzzaman
-- 🔭 I’m currently working on my Master's thesis.
-- 🌱 I’m currently learning Computer Vision & 3D simulation.
+- 🔭 I’m currently working on my PhD.
+- 🌱 I’m currently learning Model-Driven Software Development, Software Synthesis.
+- ✨ I am also interested in Autonomous Systems, Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on open source project. 
 
 ---------------
