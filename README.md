@@ -8,7 +8,7 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="soaibsafi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://soaibsafi.com)
+[<img align="left" alt="soaib.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://soaib.me)
 [<img align="left" alt="Soaibuzzaman | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=TXNeiWcAAAAJ&hl=en)
 [<img align="left" alt="Soaibuzzaman | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />](https://www.researchgate.net/profile/Soaibuzzaman)
 [<img align="left" alt="Soaibuzzaman | Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/orcid.svg" />](https://orcid.org/0000-0002-8971-5904)
