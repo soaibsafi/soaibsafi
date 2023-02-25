@@ -61,7 +61,7 @@
 
 <br />
 
-
+<!--
 ### 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soaibsafi&theme=onedark)](https://github.com/soaibsafi/github-profile-trophy)
