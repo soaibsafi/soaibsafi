@@ -55,6 +55,16 @@
 
 ### :computer: Coding Stats (Past 7 days)
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 48 mins
+
+Markdown   26 mins         >>>>>>>>>>>>>>-----------   54.31 %
+Bash       8 mins          >>>>>--------------------   18.23 %
+INI        6 mins          >>>----------------------   13.85 %
+C++        6 mins          >>>----------------------   13.61 %
+```
+
 <!--END_SECTION:waka-->
 
 ---------
