@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on my PhD.
-- 🌱 I’m currently learning Model-Driven Software Development, Software Synthesis.
+- 🌱 I’m currently learning Model-Driven Software Development, Reactive Synthesis.
 - ✨ I am also interested in Autonomous Systems, Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on open source project. 
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### 🔗 Connect with me:
+### 🔖 Find me on- 
 
 <!-- Socials -->
 
@@ -53,7 +53,7 @@
 [<img align="left" alt="Soaibuzzaman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sooaaib/)
 -->
 
-### :computer: Coding Stats (Past 7 days)
+### 👨‍💻 Coding Stats (Last 7 days)
 <!--START_SECTION:waka-->
 
 ```text
@@ -82,8 +82,6 @@ Text         4 mins          -------------------------   01.10 %
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6q8hmxup49h0pfylz2txhth78)
 -->
-
---------------------
 
 ### 📈 My Git Stats:
 
