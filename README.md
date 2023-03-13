@@ -53,25 +53,11 @@
 [<img align="left" alt="Soaibuzzaman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sooaaib/)
 -->
 
-### 👨‍💻 Coding Stats (Last 7 days)
+<!-- ### 👨‍💻 Coding Stats (Last 7 days) -->
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 9 hrs 58 mins
-
-Python       5 hrs 45 mins   >>>>>>>>>>>>>>-----------   57.71 %
-Bash         1 hr 20 mins    >>>----------------------   13.46 %
-CSV          48 mins         >>-----------------------   08.11 %
-YAML         34 mins         >------------------------   05.72 %
-Java         30 mins         >------------------------   05.13 %
-Docker       27 mins         >------------------------   04.66 %
-```
 
 <!--END_SECTION:waka-->
-
----------
-
-<br />
 
 <!--
 ### 🏆 Github Profile Trophy
