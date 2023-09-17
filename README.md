@@ -21,6 +21,7 @@
   <a href="https://github.com/soaibsafi/">
     <img src="https://komarev.com/ghpvc/?username=soaibsafi" alt="visitors" />
   </a>
+  <a href="https://wakatime.com/@4c982e71-84ec-49a9-8462-9a1c5f6d5d8f"><img src="https://wakatime.com/badge/user/4c982e71-84ec-49a9-8462-9a1c5f6d5d8f.svg" alt="Total time coded since Feb 25 2023" /></a>
   <!-- 
   <a href="https://wakatime.com/@soaib">
     <img src="https://wakatime.com/badge/user/4c982e71-84ec-49a9-8462-9a1c5f6d5d8f.svg" alt="wakatime" />
