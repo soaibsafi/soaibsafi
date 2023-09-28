@@ -30,12 +30,12 @@
 </p>
 
 ### 🔖 Find me on- 
-
 <!-- Socials -->
 
    <a href="https://soaib.me" title="Personal Website - soaib.me"><img src="https://img.shields.io/badge/-soaib.me-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
    <a href="https://scholar.google.com/citations?user=TXNeiWcAAAAJ&hl=en" title="Google Scholar - Soaibuzzaman"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=flat"/></a>
    <a href="https://dblp.org/pid/242/6523.html" title="dblp-Soaibuzzaman"><img src="https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&style=flat"/></a>
+   <a href="https://orcid.org/0000-0002-8971-5904" title="ORCID-Soaibuzzaman"><img src="https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
    <a href="https://www.researchgate.net/profile/Soaibuzzaman-2" title="ResearchGate"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" /></a>
    <a href="https://tuchemnitz.academia.edu/SoaibuzzamanSoaibuzzaman" title="Academia-Soaibuzzaman"><img src="https://img.shields.io/badge/Academia-41454A?style=flat&logo=academia&logoColor=white" /></a>
    <a href="https://www.semanticscholar.org/author/Soaibuzzaman/134774860" title="Semantic Scholar - Soaibuzzaman"><img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?logo=semanticscholar&logoColor=fff&style=flat" /></a>
