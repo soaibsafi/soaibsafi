@@ -3,12 +3,12 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:soaibuzzaman@proton.me" title="Email Address"><code>soaibuzzaman at proton dot me</code></a>
+<a href="mailto:soaibuzzaman@uni-weimar.de" title="Email Address"><code>soaibuzzaman at uni-weimar dot de</code></a>
 </p>
 
 
 - 🔭 I’m currently working on my PhD.
-- 🌱 I’m currently learning Model-Driven Software Development, Reactive Synthesis.
+- 🌱 I’m currently learning Reactive Synthesis, Formal Methods, Model-Driven Software Development.
 - ✨ I am also interested in Autonomous Systems, Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on open source project. 
 
