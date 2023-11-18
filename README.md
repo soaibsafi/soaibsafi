@@ -7,12 +7,12 @@
 </p>
 
 
-```
+
 - 🔭 I’m currently working on my PhD.
 - 🌱 I’m currently learning Reactive Synthesis, Formal Methods, Model-Driven Software Development.
 - ✨ I am also interested in Autonomous Systems, Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on open source project. 
-```
+
 
 ---------------
 
