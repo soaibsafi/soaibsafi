@@ -10,19 +10,19 @@
 
 - 🔭 I’m currently working on my PhD.
 - 🌱 I’m currently learning Reactive Synthesis, Formal Methods, Model-Driven Software Development.
-- ✨ I am also interested in Autonomous Systems, Computer Vision and Deep Learning.
-- 👯 I’m looking to collaborate on open source project. 
-
+- ✨ I am also interested in Explainable and Trustworthy AI
 
 ---------------
 
 <p align="left">
+   <!-- 
   <a href="https://github.com/soaibsafi?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/soaibsafi?color=green&logo=github">
   </a>
   <a href="https://github.com/soaibsafi/">
     <img src="https://komarev.com/ghpvc/?username=soaibsafi" alt="visitors" />
   </a>
+   -->
   <a href="https://wakatime.com/@4c982e71-84ec-49a9-8462-9a1c5f6d5d8f"><img src="https://wakatime.com/badge/user/4c982e71-84ec-49a9-8462-9a1c5f6d5d8f.svg" alt="Total time coded since Feb 25 2023" /></a>
   <!-- 
   <a href="https://wakatime.com/@soaib">
@@ -77,10 +77,11 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6q8hmxup49h0pfylz2txhth78)
 -->
 
+<!--
 ### 📈 My Git Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaibsafi&layout=compact&hide=jupyter%20notebook&exclude_repo=ToDoList,Soaib-sBlog,android_b-dice_roll&hide_border=false&theme=tokyonight&ine_height50)](https://github.com/soaibsafi?tab=repositories)
-
+-->
 <!--
 **soaibsafi/soaibsafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align = "center">
