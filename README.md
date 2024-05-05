@@ -39,13 +39,11 @@
    <a href="https://dblp.org/pid/242/6523.html" title="dblp-Soaibuzzaman"><img src="https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&style=flat"/></a>
    <a href="https://orcid.org/0000-0002-8971-5904" title="ORCID-Soaibuzzaman"><img src="https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
    <a href="https://www.researchgate.net/profile/Soaibuzzaman-2" title="ResearchGate"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" /></a>
-   <a href="https://tuchemnitz.academia.edu/SoaibuzzamanSoaibuzzaman" title="Academia-Soaibuzzaman"><img src="https://img.shields.io/badge/Academia-41454A?style=flat&logo=academia&logoColor=white" /></a>
    <a href="https://www.semanticscholar.org/author/Soaibuzzaman/134774860" title="Semantic Scholar - Soaibuzzaman"><img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?logo=semanticscholar&logoColor=fff&style=flat" /></a>
    <a href="https://www.goodreads.com/user/show/55336570-soaib-safi" title="Goodreads - Soaib"><img src="https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=flat" /></a>
    <a href="https://www.linkedin.com/in/soaibuzzaman-2a080378/" title="LinkedIn - Soaibuzzaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/sooaaib" title="Twitter - @sooaaib"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/5543521/soaib" title="StackOverflow - Soaib"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sooaaib/" title="Instagram- @sooaaib - "><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat" /></a>
   <a href="https://www.youtube.com/c/soaibsafi/" title="YouTube - @soaibsafi"><img src="(https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat" /></a>
 
 <!-- 
