@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 Hi there, I'm Soaib</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 Hi there, I'm <s>Batman</s> Soaib</h1>
 
 <!-- Contact and keys -->
 <p align="center">
