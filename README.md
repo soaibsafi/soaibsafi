@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:soaibuzzaman@uni-weimar.de" title="Email Address"><code>soaibuzzaman at uni-weimar dot de</code></a>
+<a href="mailto:hello@soaib.me" title="Email Address"><code>hello [at] soaib [dot] me</code></a>
 </p>
 
 
