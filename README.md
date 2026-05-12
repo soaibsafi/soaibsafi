@@ -3,13 +3,12 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:hello@soaib.me" title="Email Address"><code>hello [at] soaib [dot] me</code></a>
+<a href="mailto:hello@soaib.me" title="Email Address"><code>mail [at] soaib [dot] me</code></a>
 </p>
 
 
 
 - 🔭 I’m currently working on my PhD.
-- 🌱 I’m currently learning Reactive Synthesis, Formal Methods, Model-Driven Software Development.
 - ✨ I am also interested in Explainable and Trustworthy AI
 
 ---------------
